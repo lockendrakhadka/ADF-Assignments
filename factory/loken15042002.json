@@ -1,0 +1,15 @@
+{
+	"name": "loken15042002",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48c0dce8-cbdd-4772-b729-fad594bff44b",
+		"tenantId": "5af3aef4-d510-409d-8b2b-3ada39dcc5fa"
+	}
+}
