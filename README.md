@@ -377,7 +377,30 @@ FROM SalesLT.Address;
 - Conditional Queries
 - SQL Query as Dataset Source
 
+---
 
+# 📂 Repository Structure
+
+```text
+Azure-Data-Engineering/
+│
+├── Assignment-1/
+│   ├── README.md
+│   ├── Screenshots/
+│   └── Assignment1.pdf
+│
+├── Assignment-2/
+│
+├── Assignment-3/
+│
+├── Assignment-4/
+│
+├── Assignment-5/
+│
+├── Images/
+│
+└── README.md
+```
 
 ---
 
@@ -407,7 +430,7 @@ You can find screenshots of each assignment inside their respective folders.
 Example:
 
 ```
-Assignment-ADF-1,2,3&4/
+Assignment-4/
     └── Screenshots/
 
 Assignment-5/
@@ -438,3 +461,5 @@ Azure Data Engineering Enthusiast
 This repository documents my practical learning journey in Azure Data Engineering using Microsoft Azure services, Azure Data Factory, Azure SQL Database, Azure Data Lake Storage Gen2, and Azure Blob Storage.
 
 ---
+
+⭐ If you found this repository helpful, consider giving it a star.
